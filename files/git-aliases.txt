@@ -1,0 +1,8 @@
+# Useful git aliases
+
+[alias]
+  st = status -sb
+  co = checkout
+  br = branch
+  ci = commit
+  lg = log --oneline -15

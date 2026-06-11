@@ -1,0 +1,8 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "scripts": {
+    "update": "node scripts/update.js",
+    "serve": "npx --yes serve . -p 3000"
+  }
+}
